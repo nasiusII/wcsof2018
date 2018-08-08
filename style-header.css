@@ -663,11 +663,11 @@ input:focus,textarea:focus,select:focus {
 }
 
 #site-title {
-	background: url('https://2017.sofia.wordcamp.org/files/2017/07/logo-wrap-bg4-4-min.png') no-repeat center bottom;
+	background: url('#') no-repeat center bottom;
 }
 
 #site-title a {
-	background: url('https://2017.sofia.wordcamp.org/files/2017/07/logo-wrap-bg4-4-min.png') no-repeat center bottom;
+	background: url('#') no-repeat center bottom;
 	border-bottom: 0;
 }
 
@@ -683,7 +683,7 @@ input:focus,textarea:focus,select:focus {
 	width: 342px;
 	height: 462px;
 	margin: 0 auto .5em;
-	background-image: url('https://2017.sofia.wordcamp.org/files/2017/06/logo-2017-w.png');
+	background-image: url('#');
 	background-size: 342px;
 	background-repeat: no-repeat;
 	background-position: bottom;
@@ -1701,10 +1701,10 @@ h2.session-speakers,h2.speaker-sessions {
 	content: '';
 	display: block;
 	position: absolute;
-	top: 0;
+	top: 35px;
 	left: 0;
 	width: 0;
-	height: 2px;
+	height: 1px;
 	background-color: #ffffff;
 	-webkit-transition: all .3s ease-in-out;
 	-moz-transition: all .3s ease-in-out;
