@@ -4220,7 +4220,7 @@ img.emoji,img.wp-smiley {
 /*SITE TITLE*/ 
 .site-title a {
     display: block;
-    color: #D3E7F8;
+    color: #D3E7F8 !important;
 }
 
 
