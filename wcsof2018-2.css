@@ -612,7 +612,7 @@ hr {
 	padding: 0;
 	border: 0;
 	height: 1.5rem;
-	background: url('https://2018.europe.wordcamp.org/files/2017/12/divider.png') no-repeat 50% 50%;
+	background: url('https://2018.europe.wordcamp.org/files/2017/12/divider.png') no-repeat 50% 50% ;
 }
 
 @media (min-width:48em) {
@@ -1159,7 +1159,7 @@ pre code {
 }
 
 .custom-header {
-	background: #282409 url('https://2018.sofia.wordcamp.org/files/2018/08/kino-arena-dolby-atmos-roma-elite-_4_.jpg') repeat-x 50% 100%;
+	background: #282409 url('https://2018.sofia.wordcamp.org/files/2018/08/kino-arena-dolby-atmos-roma-elite-_4_.jpg') repeat-x 50% 100% !important;;
 	background-size: cover;
 }
 
@@ -1179,7 +1179,7 @@ pre code {
 
 @media (min-width:62em) {
 	.custom-header {
-		background-image: url('https://2018.sofia.wordcamp.org/files/2018/08/kino-arena-dolby-atmos-roma-elite-_4_.jpg');
+		background-image: url('https://2018.sofia.wordcamp.org/files/2018/08/kino-arena-dolby-atmos-roma-elite-_4_.jpg') !important;;
 	}
 }
 
