@@ -1115,7 +1115,7 @@ pre code {
 
 .site-title a {
 	display: block;
-	color: #f95758;
+	color: #d3e7f8; /*nasiusII*/
 }
 
 .site-title a:active,.site-title a:focus,.site-title a:hover {
@@ -4215,12 +4215,6 @@ img.emoji,img.wp-smiley {
     background-image: url('https://2018.europe.wordcamp.org/files/2017/10/wceu-18-logo.png');
     background-size: 100%;
     content: "";
-}
-
-/*SITE TITLE*/ 
-.site-title a {
-    display: block;
-    color: #D3E7F8 !important;
 }
 
 
