@@ -1,0 +1,9 @@
+.custom-header {
+    background-image: url('https://2018.sofia.wordcamp.org/files/2018/08/kino-arena-dolby-atmos-roma-elite-_4_.jpg');
+}
+.custom-header {
+    background: #282409 url('https://2018.sofia.wordcamp.org/files/2018/08/kino-arena-dolby-atmos-roma-elite-_4_.jpg') repeat-x 50% 100%;
+        background-image: url("https://2018.sofia.wordcamp.org/files/2018/08/kino-arena-dolby-atmos-roma-elite-_4_.jpg");
+        background-size: auto auto;
+    background-size: cover;
+}
