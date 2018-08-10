@@ -1115,7 +1115,7 @@ pre code {
 
 .site-title a {
 	display: block;
-	color: #d3e7f8; /*nasiusII*/
+	color: #d3e7f8 !important; /*nasiusII*/
 }
 
 .site-title a:active,.site-title a:focus,.site-title a:hover {
@@ -4202,20 +4202,7 @@ img.emoji,img.wp-smiley {
 	background-color: #5566c3;
 }		
 
-/*SITE TITLE*/
-.site-title a::before {
-    display: block;
-    width: 180px;
-    height: 180px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 2.25rem;
-    background-repeat: no-repeat;
-    background-position: 50% 50%;
-    background-image: url('https://2018.europe.wordcamp.org/files/2017/10/wceu-18-logo.png');
-    background-size: 100%;
-    content: "";
-}
+
 
 
 
