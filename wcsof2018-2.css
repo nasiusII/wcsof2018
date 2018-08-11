@@ -1320,7 +1320,7 @@ pre code {
 
 .menu-item a.focus,.menu-item a:active,.menu-item a:focus,.menu-item a:hover {
 	color: hsla(0,0%,100%,.9);
-	background-color: #5566c3;
+	background-color: #21759b;
 }
 
 @media (min-width:48em) {
@@ -1337,7 +1337,7 @@ pre code {
 
 .current-menu-item>a {
 	color: hsla(0,0%,100%,.9);
-	background-color: #5566c3;
+	background-color: #21759b;
 }
 
 .menu-item-has-children .dropdown-toggle {
@@ -1367,7 +1367,7 @@ pre code {
 	
 	.menu-item-has-children.focus>a,.menu-item-has-children:hover>a {
 		color: hsla(0,0%,100%,.9);
-		background-color: #5566c3;
+		background-color: #21759b;
 	}
 	
 	.menu-item-has-children.focus>a:after,.menu-item-has-children:hover>a:after {
@@ -1421,7 +1421,7 @@ pre code {
 		left: -999em;
 		z-index: 310;
 		min-width: 16.25rem;
-		background-color: #5566c3;
+		background-color: #21759b;
 	}
 	
 	.sub-menu .menu-item {
@@ -1596,7 +1596,7 @@ pre code {
 }
 
 .entry-content a {
-	color: #5566c3;
+	color: #21759b;
 	box-shadow: inset 0 -1px 0 0 rgba(85,102,195,.5);
 }
 
@@ -1612,7 +1612,7 @@ pre code {
 }
 
 .entry-title a {
-	color: #5566c3;
+	color: #21759b;
 }
 
 .entry-title a:active,.entry-title a:focus,.entry-title a:hover {
@@ -1794,7 +1794,7 @@ pre code {
 	margin: 0;
 	width: 3rem;
 	height: 3rem;
-	border: .125rem solid #5566c3;
+	border: .125rem solid #21759b;
 	background-color: #fff;
 	transition: all .15s ease;
 }
@@ -2231,7 +2231,7 @@ div.googlemaps iframe {
 
 .schedule-full .wcpt-schedule .wcpt-col-track:nth-child(2),.schedule-tracks .wcpt-schedule .wcpt-col-track:nth-child(2) {
 	color: #fff;
-	background-color: #5566c3;
+	background-color: #21759b;
 }
 
 .schedule-full .wcpt-schedule .wcpt-col-track:nth-child(3),.schedule-tracks .wcpt-schedule .wcpt-col-track:nth-child(3) {
