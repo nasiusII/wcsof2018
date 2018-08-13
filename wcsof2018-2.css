@@ -1321,16 +1321,8 @@ pre code {
 
 .menu-item a.focus,.menu-item a:active,.menu-item a:focus,.menu-item a:hover {
 	color: hsla(0,0%,100%,.9);
-	background-color: #21759b;
-
-}
-
-.menu-item a.focus,.menu-item a:active,.menu-item a:focus,.menu-item a:hover { /* nasiusII*/
-	color: hsla(0,0%,100%,.9);
-	content: '';
-    display: block;
-    position: absolute;
-    top: 35px;
+	background-color: #fff;
+	top: 35px;
     left: 2px;
     width: 50%;
     height: 2px;
@@ -1340,6 +1332,7 @@ pre code {
     transition: all .3s ease-in-out;
 
 }
+
 
 @media (min-width:48em) {
 	.menu-item a {
@@ -4220,4 +4213,10 @@ img.emoji,img.wp-smiley {
 	background-color: #5566c3;
 }		
 
+
+
+
+
+
+/* frond-end MENU START HERE */ 
 
