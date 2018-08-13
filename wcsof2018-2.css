@@ -1331,13 +1331,13 @@ pre code {
 
 @media (min-width:48em) {
 	.menu-item a {
-		padding: 1rem 1.5rem;
+		padding: 1rem;
 	}
 }
 
 @media (min-width:62em) {
 	.menu-item a {
-		padding: 1.5rem;
+		padding: 1rem;
 	}
 }
 
@@ -4214,3 +4214,4 @@ img.emoji,img.wp-smiley {
 
 
 /* frond-end MENU START HERE */ 
+
