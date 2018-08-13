@@ -4221,8 +4221,8 @@ img.emoji,img.wp-smiley {
     position: absolute;
     top: 45px;
     left: 2px;
-    width: 1px;
-    height: 2px;
+    width: 14px;
+    height: 1px;
     background-color: #ffffff;
     -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
