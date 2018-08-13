@@ -1320,8 +1320,6 @@ pre code {
 }
 
 .menu-item a.focus,.menu-item a:active,.menu-item a:focus,.menu-item a:hover {
-	color: hsla(0,0%,100%,.9);
-	background-color: #fff;
 	top: 35px;
     left: 2px;
     width: 50%;
