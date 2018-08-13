@@ -1324,17 +1324,9 @@ pre code {
 	background-color: #21759b;
 }
 
-.menu-item  ul li a.focus,.menu-item a:active,.menu-item a:focus,.menu-item a:hover { /* nasiusII*/
+.menu-item a.focus,.menu-item a:active,.menu-item a:focus,.menu-item a:hover { /* nasiusII*/
 	color: hsla(0,0%,100%,.9);
-	display: block;
-    position: absolute;
-    top: 35px;
-    left: 2px;
-    width: 50%;
-    height: 2px;
-    -webkit-transition: all .3s ease-in-out;
-    -moz-transition: all .3s ease-in-out;
-    transition: all .3s ease-in-out;
+	background-color: #000;
 }
 
 @media (min-width:48em) {
@@ -4220,3 +4212,19 @@ img.emoji,img.wp-smiley {
 
 
 
+
+/* frond-end MENU START HERE */ 
+
+.main-navigation ul li a::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 35px;
+    left: 2px;
+    width: 50%;
+    height: 2px;
+    background-color: #ffffff;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
