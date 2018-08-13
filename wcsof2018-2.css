@@ -4208,7 +4208,7 @@ img.emoji,img.wp-smiley {
 
 
 /* frond-end MENU START HERE */ 
-#main-navigation ul li a::before {
+#main-item ul li a::before {
     content: '';
     display: block;
     position: absolute;
