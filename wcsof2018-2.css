@@ -1265,16 +1265,7 @@ pre code {
 .menu:after,.menu:before {
 	content: "";
 	display: table;
-	display: block;
-    position: absolute;
-    top: 35px;
-    left: 2px;
-    width: 50%;
-    height: 2px;
-    background-color: #ffffff;
-    -webkit-transition: all .3s ease-in-out;
-    -moz-transition: all .3s ease-in-out;
-    transition: all .3s ease-in-out;
+	
 }
 
 .menu:after {
@@ -1347,7 +1338,7 @@ pre code {
 
 .current-menu-item>a {
 	color: hsla(0,0%,100%,.9);
-	background-color: #21759b;
+	background-color: #464646;
 }
 
 .menu-item-has-children .dropdown-toggle {
@@ -4219,3 +4210,16 @@ img.emoji,img.wp-smiley {
 
 /* frond-end MENU START HERE */ 
 
+.main-navigation ul li a::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 35px;
+    left: 2px;
+    width: 50%;
+    height: 2px;
+    background-color: #ffffff;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
