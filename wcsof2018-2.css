@@ -4216,11 +4216,10 @@ img.emoji,img.wp-smiley {
 /* frond-end MENU START HERE */ 
 
 .main-navigation ul li a::before {
-    content: '';
     display: block;
     position: absolute;
     top: 45px;
-    left: 2px;
+    left: 8px;
     width: 14px;
     height: 1px;
     background-color: #ffffff;
