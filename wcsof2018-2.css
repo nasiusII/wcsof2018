@@ -1205,18 +1205,9 @@ pre code {
 
 .menu-toggle:before {
 	font-size: 12px;
-	line-height: 18px;
+	line-height: 24px;
 	content: "Menu";
-	display: block;
-    position: absolute;
-    top: 35px;
-    left: 2px;
-    width: 50%;
-    height: 2px;
-    background-color: #ffffff;
-    -webkit-transition: all .3s ease-in-out;
-    -moz-transition: all .3s ease-in-out;
-    transition: all .3s ease-in-out;
+
 }
 
 .menu-toggle:after,.menu-toggle:before {
@@ -1274,6 +1265,16 @@ pre code {
 .menu:after,.menu:before {
 	content: "";
 	display: table;
+	display: block;
+    position: absolute;
+    top: 35px;
+    left: 2px;
+    width: 50%;
+    height: 2px;
+    background-color: #ffffff;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
 }
 
 .menu:after {
@@ -4215,4 +4216,6 @@ img.emoji,img.wp-smiley {
 
 
 
+
+/* frond-end MENU START HERE */ 
 
