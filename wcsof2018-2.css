@@ -4219,7 +4219,7 @@ img.emoji,img.wp-smiley {
     content: '';
     display: block;
     position: absolute;
-    top: 55px;
+    top: 45px;
     left: 2px;
     width: 0;
     height: 2px;
