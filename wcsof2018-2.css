@@ -1294,8 +1294,8 @@ pre code {
 	margin: 0;
 	display: block;
 	font-family: Josefin Sans, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
-	font-size: 1em;
-	font-weight: 700;
+	font-size: 0.75em;
+	font-weight: 600;
 	text-align: left;
 	text-transform: uppercase;
 }
@@ -4214,16 +4214,3 @@ img.emoji,img.wp-smiley {
 
 
 /* frond-end MENU START HERE */ 
-
-.main-navigation ul li a::before {
-    display: block;
-    position: absolute;
-    top: 45px;
-    left: 8px;
-    width: 14px;
-    height: 1px;
-    background-color: #ffffff;
-    -webkit-transition: all .3s ease-in-out;
-    -moz-transition: all .3s ease-in-out;
-    transition: all .3s ease-in-out;
-}
