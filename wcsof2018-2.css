@@ -1263,20 +1263,18 @@ pre code {
 }
 
 .menu:after,.menu:before {
-	/*content: "";*/
-	/*display: table;*/
-	content: '';
-    display: block;
-    position: absolute;
-    top: 35px;
-    left: 2px;
-    width: 50%;
-    height: 2px;
-    background-color: #ffffff;
-    -webkit-transition: all .3s ease-in-out;
-    -moz-transition: all .3s ease-in-out;
-    transition: all .3s ease-in-out;
+	content: "";
+	display: table;
+	top: 35px; /* nasius */
+    left: 2px; /* nasius */
+    width: 50%; /* nasius */
+    height: 2px; /* nasius */
+    background-color: #ffffff; /* nasius */
+    -webkit-transition: all .3s ease-in-out; /* nasius */
+    -moz-transition: all .3s ease-in-out; /* nasius */
+    transition: all .3s ease-in-out; /* nasius */
 }
+
 
 .menu:after {
 	clear: both;
