@@ -1331,13 +1331,13 @@ pre code {
 
 @media (min-width:48em) {
 	.menu-item a {
-		padding: 1rem;
+		padding: 0.5rem;
 	}
 }
 
 @media (min-width:62em) {
 	.menu-item a {
-	/*	padding: 1rem; */
+		padding: 0.5rem; 
 	}
 }
 
