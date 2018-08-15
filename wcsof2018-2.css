@@ -1264,15 +1264,15 @@ pre code {
 
 .menu:after,.menu:before {
 	content: "";
-	display: table;
+	display: inline-block;
 	top: 35px; /* nasius */
     left: 2px; /* nasius */
-    width: 50%; /* nasius */
+    width: 10px; /* nasius */
     height: 2px; /* nasius */
     background-color: #ffffff; /* nasius */
     -webkit-transition: all .3s ease-in-out; /* nasius */
     -moz-transition: all .3s ease-in-out; /* nasius */
-    transition: all .3s ease-in-out; /* nasius */
+    transition: all .3s ease-in-out; 
 }
 
 
