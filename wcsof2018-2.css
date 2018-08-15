@@ -1304,8 +1304,8 @@ pre code {
 	.menu-item {
 		margin: 0 .0625rem;
 		display: inline-block;
-		font-size: 18px;
-		font-size: 1.125rem;
+		font-size: 14px;
+		font-size: 1rem;
 		line-height: 1.33333em;
 		text-align: center;
 	}
@@ -4210,20 +4210,5 @@ img.emoji,img.wp-smiley {
 
 
 
-/* 3 boxes under menu */
-.conf-info .item-info.item-callendar {
-    color: #ffffff;
-    background: #21759B url('https://2017.sofia.wordcamp.org/files/2017/06/callendar-icon.png') no-repeat center 50px;}
 
-    .conf-info .item-info.item-place {
-    color: #262931;
-    background: #D54E21 url('https://2017.sofia.wordcamp.org/files/2017/06/place-icon.png') no-repeat center 50px;
-}
 
-conf-info .item-info.item-ticket {
-    position: relative;
-    color: #ff5e3c;
-    background: #464646 url('https://2017.sofia.wordcamp.org/files/2017/06/tickets-1.png') no-repeat center 50px;
-}
-
-/* frond-end MENU START HERE */ 
