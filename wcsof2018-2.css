@@ -1200,7 +1200,7 @@ pre code {
 
 .menu-toggle.focus,.menu-toggle:active,.menu-toggle:focus,.menu-toggle:hover {
 	color: hsla(0,0%,100%,.9);
-	background-color: #21759B;
+	background-color: #014e2f;
 }
 
 .menu-toggle:before {
@@ -1321,7 +1321,7 @@ pre code {
 
 .menu-item a.focus,.menu-item a:active,.menu-item a:focus{
 	color: hsla(0,0%,100%,.9);
-	background-color: #21759b;
+	background-color: #014e2f;
 }
 
 .menu-item a:hover { /* nasiusII*/
@@ -1373,7 +1373,7 @@ pre code {
 	
 	.menu-item-has-children.focus>a,.menu-item-has-children:hover>a {
 		color: hsla(0,0%,100%,.9);
-		background-color: #21759b;
+		background-color: #014e2f;
 	}
 	
 	.menu-item-has-children.focus>a:after,.menu-item-has-children:hover>a:after {
@@ -1427,7 +1427,7 @@ pre code {
 		left: -999em;
 		z-index: 310;
 		min-width: 16.25rem;
-		background-color: #21759b;
+		background-color: #014e2f;
 	}
 	
 	.sub-menu .menu-item {
@@ -4216,7 +4216,7 @@ img.emoji,img.wp-smiley {
 }
 .menu ul li :hover { /* nasiusII */
 	color: #000;
-	background-color: #0fff;
+	background-color: #fff;
 	
 }
 
