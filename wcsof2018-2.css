@@ -1194,7 +1194,7 @@ pre code {
 	letter-spacing: .05em;
 	color: hsla(0,0%,100%,.9);
 	border-radius: 0;
-	background-color: #014e2f;
+	background-color: #014e2f !important;
 	cursor: pointer;
 }
 
