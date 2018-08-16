@@ -1158,7 +1158,7 @@ pre code {
 }
 
 .custom-header {
-	background: #282409 url('https://2018.sofia.wordcamp.org/files/2018/08/kino-arena-dolby-atmos-roma-elite-_4_1.jpg') repeat-x 50% 100% !important;;
+	background: #282409 url('https://2018.sofia.wordcamp.org/files/2018/08/wcsofia-header-2018.jpg') repeat-x 50% 100% !important;;
 	background-size: cover;
 }
 
@@ -1178,7 +1178,7 @@ pre code {
 
 @media (min-width:62em) {
 	.custom-header {
-		background-image: url('https://2018.sofia.wordcamp.org/files/2018/08/kino-arena-dolby-atmos-roma-elite-_4_1.jpg') !important;;
+		background-image: url('https://2018.sofia.wordcamp.org/files/2018/08/wcsofia-header-2018.jpg') !important;;
 	}
 }
 
