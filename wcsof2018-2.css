@@ -4209,12 +4209,12 @@ img.emoji,img.wp-smiley {
 }		
 
 
-#menu ul li a:before { /* nasiusII */
+.menu ul li a:before { /* nasiusII */
 	color: #fff;
 	background-color: #014e2f;
 	
 }
-#menu ul li a:hover { /* nasiusII */
+.menu ul li a:hover { /* nasiusII */
 	color: #000;
 	background-color: #0fff;
 	
